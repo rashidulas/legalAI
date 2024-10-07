@@ -58,7 +58,7 @@ export async function POST(req: Request) {
         {
           role: "user",
           content: `
-          The following is the extracted text from a legal document. Summarize the key points by focusing only on the following sections:
+          The following is the extracted text from a legal document. Give specific clause from the document and Summarize the key points by focusing only on the following sections:
           1. Overall Summary
           2. Liabilities and Risks
           3. Termination Clauses
