@@ -1,5 +1,9 @@
 # LegalAI - AI-Powered Legal Document Analyzer
 LegalAI is an advanced AI-powered platform designed to simplify and automate the analysis of legal documents. By leveraging cutting-edge large language models (LLMs), LegalAI helps users quickly review contracts, agreements, and other legal documents by summarizing them and identifying key clauses such as risks, liabilities, and payment terms. LegalAI is built using Next.js and integrates with MongoDB Atlas, PropelAuth for authentication, and AWS for hosting and deployment, managed via Terraform.
+##
+Devpost : https://devpost.com/software/legal-ai-cad5xy |
+Best Use of MongoDB |
+Honorable Mention for PropelAuth
 
 ## Features
 ## 🚀 AI-Powered Document Summarization
